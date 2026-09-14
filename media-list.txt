@@ -1,0 +1,36 @@
+assets\images\hero.jpg
+assets\images\IMG_9366.JPG.jpeg
+assets\videos\1 nadha vkc.M4V
+assets\videos\11111111111.m4v
+assets\videos\akshaya gold & diamonds punya.MOV
+assets\videos\ALLURE all products.M4V
+assets\videos\Alma Carino .MOV
+assets\videos\Award night reel 1.MOV
+assets\videos\BRUNTON BOATYARD  REEL.MP4
+assets\videos\CHARLIE - BRUNTON-_1.MP4
+assets\videos\Deepak sir Award night .MOV
+assets\videos\friendship day reel 1.MOV
+assets\videos\hair studio ann maria.MOV
+assets\videos\heritage.MP4
+assets\videos\IMG_5635.MOV
+assets\videos\Kathuna award night reel .MOV
+assets\videos\l studio angela 2.MOV
+assets\videos\L studio serin 2.MOV
+assets\videos\l studio valentines.MP4
+assets\videos\Life of a Watchaholic_Out.MP4
+assets\videos\mar asset canzara.mov
+assets\videos\Moisturiser vitamin C.M4V
+assets\videos\mor 11.m4v
+assets\videos\mor artech .m4v
+assets\videos\mor club marina.m4v
+assets\videos\mor Indroyal Uptown  1.m4v
+assets\videos\nadha 1.M4V
+assets\videos\natulals aneena.M4V
+assets\videos\nihal award night reel .MOV
+assets\videos\RAKKAUDELLA FINAL .MP4
+assets\videos\Shoba mansion house .MOV
+assets\videos\spf.M4V
+assets\videos\STH x Ducati Video out.MP4
+assets\videos\STH_Coco cola out.MP4
+assets\videos\taneli two models.MOV
+assets\videos\torpedoes 1000 reel.m4v
